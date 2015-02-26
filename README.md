@@ -48,7 +48,7 @@ Yea, it's inspired by font awesome, :)
 Be sure to include the `/src/scss/fastlane.css` to enable customization.
 
 ### custom asset path
-You're also able to adjust the url the assets are loaded form. twemoji on the fastlane also includes the 16x16 and svg assets. To use them do this:
+You're also able to adjust the url the assets are loaded form. twemoji on the fastlane also includes the png and svg assets. To use them do this:
 
 ```scss
 $twemoji-asset-path: "/dist/assets/";
