@@ -30,6 +30,12 @@ You can use the temoji like so:
 <i class="twfl twfl-purple-heart"></i>
 ```
 
+or with underscore
+
+```html
+<i class="twfl twfl_purple_heart"></i>
+```
+
 Be sure to use `twfl` as a base to allow generic styling.
 
 Than just add the twemoji you like. See all [here](#).
