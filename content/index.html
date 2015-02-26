@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <title>Twitter Emjois on the Fastlane</title>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/dist/css/fastlane.css" media="screen" charset="utf-8">
+
+    <script charset="utf-8" src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script charset="utf-8" src="/js/handlebars.js"></script>
+  </head>
+  <body>
+    <div class="container">
+
+      <script id="entry-template" type="text/x-handlebars-template">
+        <ul>
+          {{#each items}}
+            <li>
+              <p>
+                <b>{{name}}</b><br>
+                <i class="tw tw-{{emotion}}"></i>
+              </p>
+            </li>
+          {{/each}}
+        </ul>
+      </script>
+
+      <script charset="utf-8">
+        var source   = $("#entry-template").html();
+        var template = Handlebars.compile(source);
+        var context = {
+          items: [
+            {name: "Handlebars", emotion: "purple-heart"},
+            {name: "Mustache", emotion: "heart"},
+            {name: "Ember", emotion: "file-folder"}
+          ]
+        };
+        var html    = template(context);
+
+        $("body .container").prepend(html);
+      </script>
+
+      <p>
+        <b>heart:</b>
+      </p>
+      <p>
+        <i class="twfl twfl-purple-heart"></i>
+        <i class="twfl twfl_purple_heart"></i>
+      </p>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,4144 @@
+.twfl {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 1em 1em; }
+
+.twfl-smile,
+.twfl_smile {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f604.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f604.svg"), none; }
+
+.twfl-laughing,
+.twfl_laughing {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f606.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f606.svg"), none; }
+
+.twfl-blush,
+.twfl_blush {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f60a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f60a.svg"), none; }
+
+.twfl-smiley,
+.twfl_smiley {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f603.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f603.svg"), none; }
+
+.twfl-relaxed,
+.twfl_relaxed {
+  background-image: url("https://twemoji.maxcdn.com/16x16/263a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/263a.svg"), none; }
+
+.twfl-smirk,
+.twfl_smirk {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f60f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f60f.svg"), none; }
+
+.twfl-heart-eyes,
+.twfl_heart_eyes {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f60d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f60d.svg"), none; }
+
+.twfl-kissing-heart,
+.twfl_kissing_heart {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f618.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f618.svg"), none; }
+
+.twfl-kissing-closed-eyes,
+.twfl_kissing_closed_eyes {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f61a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f61a.svg"), none; }
+
+.twfl-flushed,
+.twfl_flushed {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f633.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f633.svg"), none; }
+
+.twfl-relieved,
+.twfl_relieved {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f625.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f625.svg"), none; }
+
+.twfl-satisfied,
+.twfl_satisfied {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f60c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f60c.svg"), none; }
+
+.twfl-grin,
+.twfl_grin {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f601.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f601.svg"), none; }
+
+.twfl-wink,
+.twfl_wink {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f609.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f609.svg"), none; }
+
+.twfl-stuck-out-tongue-winking-eye,
+.twfl_stuck_out_tongue_winking_eye {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f61c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f61c.svg"), none; }
+
+.twfl-stuck-out-tongue-closed-eyes,
+.twfl_stuck_out_tongue_closed_eyes {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f61d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f61d.svg"), none; }
+
+.twfl-grinning,
+.twfl_grinning {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f600.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f600.svg"), none; }
+
+.twfl-kissing,
+.twfl_kissing {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f617.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f617.svg"), none; }
+
+.twfl-kissing-smiling-eyes,
+.twfl_kissing_smiling_eyes {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f619.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f619.svg"), none; }
+
+.twfl-stuck-out-tongue,
+.twfl_stuck_out_tongue {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f61b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f61b.svg"), none; }
+
+.twfl-sleeping,
+.twfl_sleeping {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f634.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f634.svg"), none; }
+
+.twfl-worried,
+.twfl_worried {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f61f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f61f.svg"), none; }
+
+.twfl-frowning,
+.twfl_frowning {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f626.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f626.svg"), none; }
+
+.twfl-anguished,
+.twfl_anguished {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f627.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f627.svg"), none; }
+
+.twfl-open-mouth,
+.twfl_open_mouth {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f62e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f62e.svg"), none; }
+
+.twfl-grimacing,
+.twfl_grimacing {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f62c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f62c.svg"), none; }
+
+.twfl-confused,
+.twfl_confused {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f615.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f615.svg"), none; }
+
+.twfl-hushed,
+.twfl_hushed {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f62f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f62f.svg"), none; }
+
+.twfl-expressionless,
+.twfl_expressionless {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f611.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f611.svg"), none; }
+
+.twfl-unamused,
+.twfl_unamused {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f612.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f612.svg"), none; }
+
+.twfl-sweat-smile,
+.twfl_sweat_smile {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f605.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f605.svg"), none; }
+
+.twfl-sweat,
+.twfl_sweat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f613.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f613.svg"), none; }
+
+.twfl-weary,
+.twfl_weary {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f629.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f629.svg"), none; }
+
+.twfl-pensive,
+.twfl_pensive {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f614.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f614.svg"), none; }
+
+.twfl-disappointed,
+.twfl_disappointed {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f61e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f61e.svg"), none; }
+
+.twfl-confounded,
+.twfl_confounded {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f616.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f616.svg"), none; }
+
+.twfl-fearful,
+.twfl_fearful {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f628.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f628.svg"), none; }
+
+.twfl-cold-sweat,
+.twfl_cold_sweat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f630.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f630.svg"), none; }
+
+.twfl-persevere,
+.twfl_persevere {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f623.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f623.svg"), none; }
+
+.twfl-cry,
+.twfl_cry {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f622.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f622.svg"), none; }
+
+.twfl-sob,
+.twfl_sob {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f62d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f62d.svg"), none; }
+
+.twfl-joy,
+.twfl_joy {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f602.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f602.svg"), none; }
+
+.twfl-astonished,
+.twfl_astonished {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f632.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f632.svg"), none; }
+
+.twfl-scream,
+.twfl_scream {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f631.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f631.svg"), none; }
+
+.twfl-tired-face,
+.twfl_tired_face {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f62b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f62b.svg"), none; }
+
+.twfl-angry,
+.twfl_angry {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f620.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f620.svg"), none; }
+
+.twfl-rage,
+.twfl_rage {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f621.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f621.svg"), none; }
+
+.twfl-triumph,
+.twfl_triumph {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f624.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f624.svg"), none; }
+
+.twfl-sleepy,
+.twfl_sleepy {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f62a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f62a.svg"), none; }
+
+.twfl-yum,
+.twfl_yum {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f60b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f60b.svg"), none; }
+
+.twfl-mask,
+.twfl_mask {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f637.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f637.svg"), none; }
+
+.twfl-sunglasses,
+.twfl_sunglasses {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f60e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f60e.svg"), none; }
+
+.twfl-dizzy-face,
+.twfl_dizzy_face {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f635.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f635.svg"), none; }
+
+.twfl-imp,
+.twfl_imp {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f47f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f47f.svg"), none; }
+
+.twfl-smiling-imp,
+.twfl_smiling_imp {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f608.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f608.svg"), none; }
+
+.twfl-neutral-face,
+.twfl_neutral_face {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f610.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f610.svg"), none; }
+
+.twfl-no-mouth,
+.twfl_no_mouth {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f636.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f636.svg"), none; }
+
+.twfl-innocent,
+.twfl_innocent {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f607.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f607.svg"), none; }
+
+.twfl-alien,
+.twfl_alien {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f47d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f47d.svg"), none; }
+
+.twfl-yellow-heart,
+.twfl_yellow_heart {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f49b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f49b.svg"), none; }
+
+.twfl-blue-heart,
+.twfl_blue_heart {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f499.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f499.svg"), none; }
+
+.twfl-purple-heart,
+.twfl_purple_heart {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f49c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f49c.svg"), none; }
+
+.twfl-heart,
+.twfl_heart {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2764.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2764.svg"), none; }
+
+.twfl-green-heart,
+.twfl_green_heart {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f49a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f49a.svg"), none; }
+
+.twfl-broken-heart,
+.twfl_broken_heart {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f494.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f494.svg"), none; }
+
+.twfl-heartbeat,
+.twfl_heartbeat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f493.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f493.svg"), none; }
+
+.twfl-heartpulse,
+.twfl_heartpulse {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f497.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f497.svg"), none; }
+
+.twfl-two-hearts,
+.twfl_two_hearts {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f495.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f495.svg"), none; }
+
+.twfl-revolving-hearts,
+.twfl_revolving_hearts {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f49e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f49e.svg"), none; }
+
+.twfl-cupid,
+.twfl_cupid {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f498.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f498.svg"), none; }
+
+.twfl-sparkling-heart,
+.twfl_sparkling_heart {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f496.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f496.svg"), none; }
+
+.twfl-sparkles,
+.twfl_sparkles {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2728.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2728.svg"), none; }
+
+.twfl-star,
+.twfl_star {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2b50.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2b50.svg"), none; }
+
+.twfl-star2,
+.twfl_star2 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f31f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f31f.svg"), none; }
+
+.twfl-dizzy,
+.twfl_dizzy {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4ab.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ab.svg"), none; }
+
+.twfl-boom,
+.twfl_boom {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4a5.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a5.svg"), none; }
+
+.twfl-anger,
+.twfl_anger {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4a2.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a2.svg"), none; }
+
+.twfl-exclamation,
+.twfl_exclamation {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2757.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2757.svg"), none; }
+
+.twfl-question,
+.twfl_question {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2753.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2753.svg"), none; }
+
+.twfl-grey-exclamation,
+.twfl_grey_exclamation {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2755.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2755.svg"), none; }
+
+.twfl-grey-question,
+.twfl_grey_question {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2754.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2754.svg"), none; }
+
+.twfl-zzz,
+.twfl_zzz {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4a4.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a4.svg"), none; }
+
+.twfl-dash,
+.twfl_dash {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4a8.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a8.svg"), none; }
+
+.twfl-sweat-drops,
+.twfl_sweat_drops {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4a6.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a6.svg"), none; }
+
+.twfl-notes,
+.twfl_notes {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3b6.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b6.svg"), none; }
+
+.twfl-musical-note,
+.twfl_musical_note {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3b5.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b5.svg"), none; }
+
+.twfl-fire,
+.twfl_fire {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f525.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f525.svg"), none; }
+
+.twfl-poop,
+.twfl_poop {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4a9.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a9.svg"), none; }
+
+.twfl-thumbsup,
+.twfl_thumbsup {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f44d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f44d.svg"), none; }
+
+.twfl-thumbsdown,
+.twfl_thumbsdown {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f44e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f44e.svg"), none; }
+
+.twfl-ok-hand,
+.twfl_ok_hand {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f44c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f44c.svg"), none; }
+
+.twfl-punch,
+.twfl_punch {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f44a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f44a.svg"), none; }
+
+.twfl-fist,
+.twfl_fist {
+  background-image: url("https://twemoji.maxcdn.com/16x16/270a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/270a.svg"), none; }
+
+.twfl-v,
+.twfl_v {
+  background-image: url("https://twemoji.maxcdn.com/16x16/270c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/270c.svg"), none; }
+
+.twfl-wave,
+.twfl_wave {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f44b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f44b.svg"), none; }
+
+.twfl-hand,
+.twfl_hand {
+  background-image: url("https://twemoji.maxcdn.com/16x16/270b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/270b.svg"), none; }
+
+.twfl-open-hands,
+.twfl_open_hands {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f450.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f450.svg"), none; }
+
+.twfl-point-up,
+.twfl_point_up {
+  background-image: url("https://twemoji.maxcdn.com/16x16/261d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/261d.svg"), none; }
+
+.twfl-point-down,
+.twfl_point_down {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f447.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f447.svg"), none; }
+
+.twfl-point-left,
+.twfl_point_left {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f448.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f448.svg"), none; }
+
+.twfl-point-right,
+.twfl_point_right {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f449.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f449.svg"), none; }
+
+.twfl-raised-hands,
+.twfl_raised_hands {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f64c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f64c.svg"), none; }
+
+.twfl-pray,
+.twfl_pray {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f64f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f64f.svg"), none; }
+
+.twfl-point-up-2,
+.twfl_point_up_2 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f446.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f446.svg"), none; }
+
+.twfl-clap,
+.twfl_clap {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f44f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f44f.svg"), none; }
+
+.twfl-muscle,
+.twfl_muscle {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4aa.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4aa.svg"), none; }
+
+.twfl-walking,
+.twfl_walking {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6b6.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b6.svg"), none; }
+
+.twfl-runner,
+.twfl_runner {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3c3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c3.svg"), none; }
+
+.twfl-couple,
+.twfl_couple {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f46b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f46b.svg"), none; }
+
+.twfl-family,
+.twfl_family {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f46a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f46a.svg"), none; }
+
+.twfl-two-men-holding-hands,
+.twfl_two_men_holding_hands {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f46c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f46c.svg"), none; }
+
+.twfl-two-women-holding-hands,
+.twfl_two_women_holding_hands {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f46d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f46d.svg"), none; }
+
+.twfl-dancer,
+.twfl_dancer {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f483.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f483.svg"), none; }
+
+.twfl-dancers,
+.twfl_dancers {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f46f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f46f.svg"), none; }
+
+.twfl-ok-woman,
+.twfl_ok_woman {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f646.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f646.svg"), none; }
+
+.twfl-no-good,
+.twfl_no_good {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f645.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f645.svg"), none; }
+
+.twfl-information-desk-person,
+.twfl_information_desk_person {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f481.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f481.svg"), none; }
+
+.twfl-raised-hand,
+.twfl_raised_hand {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f64b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f64b.svg"), none; }
+
+.twfl-bride-with-veil,
+.twfl_bride_with_veil {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f470.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f470.svg"), none; }
+
+.twfl-person-with-pouting-face,
+.twfl_person_with_pouting_face {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f64e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f64e.svg"), none; }
+
+.twfl-person-frowning,
+.twfl_person_frowning {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f64d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f64d.svg"), none; }
+
+.twfl-bow,
+.twfl_bow {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f647.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f647.svg"), none; }
+
+.twfl-couplekiss,
+.twfl_couplekiss {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f48f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f48f.svg"), none; }
+
+.twfl-couple-with-heart,
+.twfl_couple_with_heart {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f491.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f491.svg"), none; }
+
+.twfl-massage,
+.twfl_massage {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f486.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f486.svg"), none; }
+
+.twfl-haircut,
+.twfl_haircut {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f487.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f487.svg"), none; }
+
+.twfl-nail-care,
+.twfl_nail_care {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f485.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f485.svg"), none; }
+
+.twfl-boy,
+.twfl_boy {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f466.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f466.svg"), none; }
+
+.twfl-girl,
+.twfl_girl {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f467.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f467.svg"), none; }
+
+.twfl-woman,
+.twfl_woman {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f469.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f469.svg"), none; }
+
+.twfl-man,
+.twfl_man {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f468.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f468.svg"), none; }
+
+.twfl-baby,
+.twfl_baby {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f476.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f476.svg"), none; }
+
+.twfl-older-woman,
+.twfl_older_woman {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f475.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f475.svg"), none; }
+
+.twfl-older-man,
+.twfl_older_man {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f474.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f474.svg"), none; }
+
+.twfl-person-with-blond-hair,
+.twfl_person_with_blond_hair {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f471.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f471.svg"), none; }
+
+.twfl-man-with-gua-pi-mao,
+.twfl_man_with_gua_pi_mao {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f472.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f472.svg"), none; }
+
+.twfl-man-with-turban,
+.twfl_man_with_turban {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f473.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f473.svg"), none; }
+
+.twfl-construction-worker,
+.twfl_construction_worker {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f477.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f477.svg"), none; }
+
+.twfl-cop,
+.twfl_cop {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f46e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f46e.svg"), none; }
+
+.twfl-angel,
+.twfl_angel {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f47c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f47c.svg"), none; }
+
+.twfl-princess,
+.twfl_princess {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f478.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f478.svg"), none; }
+
+.twfl-smiley-cat,
+.twfl_smiley_cat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f63a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f63a.svg"), none; }
+
+.twfl-smile-cat,
+.twfl_smile_cat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f638.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f638.svg"), none; }
+
+.twfl-heart-eyes-cat,
+.twfl_heart_eyes_cat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f63b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f63b.svg"), none; }
+
+.twfl-kissing-cat,
+.twfl_kissing_cat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f63d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f63d.svg"), none; }
+
+.twfl-smirk-cat,
+.twfl_smirk_cat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f63c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f63c.svg"), none; }
+
+.twfl-scream-cat,
+.twfl_scream_cat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f640.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f640.svg"), none; }
+
+.twfl-crying-cat-face,
+.twfl_crying_cat_face {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f63f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f63f.svg"), none; }
+
+.twfl-joy-cat,
+.twfl_joy_cat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f639.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f639.svg"), none; }
+
+.twfl-pouting-cat,
+.twfl_pouting_cat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f63e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f63e.svg"), none; }
+
+.twfl-japanese-ogre,
+.twfl_japanese_ogre {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f479.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f479.svg"), none; }
+
+.twfl-japanese-goblin,
+.twfl_japanese_goblin {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f47a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f47a.svg"), none; }
+
+.twfl-see-no-evil,
+.twfl_see_no_evil {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f648.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f648.svg"), none; }
+
+.twfl-hear-no-evil,
+.twfl_hear_no_evil {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f649.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f649.svg"), none; }
+
+.twfl-speak-no-evil,
+.twfl_speak_no_evil {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f64a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f64a.svg"), none; }
+
+.twfl-guardsman,
+.twfl_guardsman {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f482.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f482.svg"), none; }
+
+.twfl-skull,
+.twfl_skull {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f480.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f480.svg"), none; }
+
+.twfl-feet,
+.twfl_feet {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f463.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f463.svg"), none; }
+
+.twfl-lips,
+.twfl_lips {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f444.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f444.svg"), none; }
+
+.twfl-kiss,
+.twfl_kiss {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f48b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f48b.svg"), none; }
+
+.twfl-droplet,
+.twfl_droplet {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4a7.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a7.svg"), none; }
+
+.twfl-ear,
+.twfl_ear {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f442.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f442.svg"), none; }
+
+.twfl-eyes,
+.twfl_eyes {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f440.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f440.svg"), none; }
+
+.twfl-nose,
+.twfl_nose {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f443.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f443.svg"), none; }
+
+.twfl-tongue,
+.twfl_tongue {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f445.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f445.svg"), none; }
+
+.twfl-love-letter,
+.twfl_love_letter {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f48c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f48c.svg"), none; }
+
+.twfl-bust-in-silhouette,
+.twfl_bust_in_silhouette {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f464.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f464.svg"), none; }
+
+.twfl-busts-in-silhouette,
+.twfl_busts_in_silhouette {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f465.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f465.svg"), none; }
+
+.twfl-speech-balloon,
+.twfl_speech_balloon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4ac.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ac.svg"), none; }
+
+.twfl-thought-balloon,
+.twfl_thought_balloon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4ad.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ad.svg"), none; }
+
+.twfl-sunny,
+.twfl_sunny {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2600.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2600.svg"), none; }
+
+.twfl-umbrella,
+.twfl_umbrella {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2614.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2614.svg"), none; }
+
+.twfl-cloud,
+.twfl_cloud {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2601.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2601.svg"), none; }
+
+.twfl-snowflake,
+.twfl_snowflake {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2744.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2744.svg"), none; }
+
+.twfl-snowman,
+.twfl_snowman {
+  background-image: url("https://twemoji.maxcdn.com/16x16/26c4.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/26c4.svg"), none; }
+
+.twfl-zap,
+.twfl_zap {
+  background-image: url("https://twemoji.maxcdn.com/16x16/26a1.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/26a1.svg"), none; }
+
+.twfl-cyclone,
+.twfl_cyclone {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f300.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f300.svg"), none; }
+
+.twfl-foggy,
+.twfl_foggy {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f301.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f301.svg"), none; }
+
+.twfl-ocean,
+.twfl_ocean {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f30a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f30a.svg"), none; }
+
+.twfl-cat,
+.twfl_cat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f431.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f431.svg"), none; }
+
+.twfl-dog,
+.twfl_dog {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f436.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f436.svg"), none; }
+
+.twfl-mouse,
+.twfl_mouse {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f42d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f42d.svg"), none; }
+
+.twfl-hamster,
+.twfl_hamster {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f439.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f439.svg"), none; }
+
+.twfl-rabbit,
+.twfl_rabbit {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f430.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f430.svg"), none; }
+
+.twfl-wolf,
+.twfl_wolf {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f43a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f43a.svg"), none; }
+
+.twfl-frog,
+.twfl_frog {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f438.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f438.svg"), none; }
+
+.twfl-tiger,
+.twfl_tiger {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f42f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f42f.svg"), none; }
+
+.twfl-koala,
+.twfl_koala {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f428.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f428.svg"), none; }
+
+.twfl-bear,
+.twfl_bear {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f43b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f43b.svg"), none; }
+
+.twfl-pig,
+.twfl_pig {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f437.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f437.svg"), none; }
+
+.twfl-pig-nose,
+.twfl_pig_nose {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f43d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f43d.svg"), none; }
+
+.twfl-cow,
+.twfl_cow {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f42e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f42e.svg"), none; }
+
+.twfl-boar,
+.twfl_boar {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f417.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f417.svg"), none; }
+
+.twfl-monkey-face,
+.twfl_monkey_face {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f435.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f435.svg"), none; }
+
+.twfl-monkey,
+.twfl_monkey {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f412.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f412.svg"), none; }
+
+.twfl-horse,
+.twfl_horse {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f434.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f434.svg"), none; }
+
+.twfl-racehorse,
+.twfl_racehorse {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f40e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f40e.svg"), none; }
+
+.twfl-camel,
+.twfl_camel {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f42b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f42b.svg"), none; }
+
+.twfl-sheep,
+.twfl_sheep {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f411.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f411.svg"), none; }
+
+.twfl-elephant,
+.twfl_elephant {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f418.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f418.svg"), none; }
+
+.twfl-panda-face,
+.twfl_panda_face {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f43c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f43c.svg"), none; }
+
+.twfl-snake,
+.twfl_snake {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f40d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f40d.svg"), none; }
+
+.twfl-bird,
+.twfl_bird {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f426.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f426.svg"), none; }
+
+.twfl-baby-chick,
+.twfl_baby_chick {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f424.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f424.svg"), none; }
+
+.twfl-hatched-chick,
+.twfl_hatched_chick {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f425.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f425.svg"), none; }
+
+.twfl-hatching-chick,
+.twfl_hatching_chick {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f423.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f423.svg"), none; }
+
+.twfl-chicken,
+.twfl_chicken {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f414.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f414.svg"), none; }
+
+.twfl-penguin,
+.twfl_penguin {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f427.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f427.svg"), none; }
+
+.twfl-turtle,
+.twfl_turtle {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f422.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f422.svg"), none; }
+
+.twfl-bug,
+.twfl_bug {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f41b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f41b.svg"), none; }
+
+.twfl-honeybee,
+.twfl_honeybee {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f41d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f41d.svg"), none; }
+
+.twfl-ant,
+.twfl_ant {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f41c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f41c.svg"), none; }
+
+.twfl-beetle,
+.twfl_beetle {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f41e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f41e.svg"), none; }
+
+.twfl-snail,
+.twfl_snail {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f40c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f40c.svg"), none; }
+
+.twfl-octopus,
+.twfl_octopus {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f419.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f419.svg"), none; }
+
+.twfl-tropical-fish,
+.twfl_tropical_fish {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f420.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f420.svg"), none; }
+
+.twfl-fish,
+.twfl_fish {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f41f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f41f.svg"), none; }
+
+.twfl-whale,
+.twfl_whale {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f433.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f433.svg"), none; }
+
+.twfl-whale2,
+.twfl_whale2 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f40b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f40b.svg"), none; }
+
+.twfl-dolphin,
+.twfl_dolphin {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f42c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f42c.svg"), none; }
+
+.twfl-cow2,
+.twfl_cow2 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f404.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f404.svg"), none; }
+
+.twfl-ram,
+.twfl_ram {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f40f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f40f.svg"), none; }
+
+.twfl-rat,
+.twfl_rat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f400.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f400.svg"), none; }
+
+.twfl-water-buffalo,
+.twfl_water_buffalo {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f403.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f403.svg"), none; }
+
+.twfl-tiger2,
+.twfl_tiger2 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f405.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f405.svg"), none; }
+
+.twfl-rabbit2,
+.twfl_rabbit2 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f407.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f407.svg"), none; }
+
+.twfl-dragon,
+.twfl_dragon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f409.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f409.svg"), none; }
+
+.twfl-goat,
+.twfl_goat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f410.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f410.svg"), none; }
+
+.twfl-rooster,
+.twfl_rooster {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f413.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f413.svg"), none; }
+
+.twfl-dog2,
+.twfl_dog2 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f415.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f415.svg"), none; }
+
+.twfl-pig2,
+.twfl_pig2 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f416.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f416.svg"), none; }
+
+.twfl-mouse2,
+.twfl_mouse2 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f401.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f401.svg"), none; }
+
+.twfl-ox,
+.twfl_ox {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f402.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f402.svg"), none; }
+
+.twfl-dragon-face,
+.twfl_dragon_face {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f432.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f432.svg"), none; }
+
+.twfl-blowfish,
+.twfl_blowfish {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f421.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f421.svg"), none; }
+
+.twfl-crocodile,
+.twfl_crocodile {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f40a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f40a.svg"), none; }
+
+.twfl-dromedary-camel,
+.twfl_dromedary_camel {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f42a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f42a.svg"), none; }
+
+.twfl-leopard,
+.twfl_leopard {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f406.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f406.svg"), none; }
+
+.twfl-cat2,
+.twfl_cat2 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f408.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f408.svg"), none; }
+
+.twfl-poodle,
+.twfl_poodle {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f429.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f429.svg"), none; }
+
+.twfl-paw-prints,
+.twfl_paw_prints {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f43e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f43e.svg"), none; }
+
+.twfl-bouquet,
+.twfl_bouquet {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f490.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f490.svg"), none; }
+
+.twfl-cherry-blossom,
+.twfl_cherry_blossom {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f338.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f338.svg"), none; }
+
+.twfl-tulip,
+.twfl_tulip {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f337.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f337.svg"), none; }
+
+.twfl-four-leaf-clover,
+.twfl_four_leaf_clover {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f340.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f340.svg"), none; }
+
+.twfl-rose,
+.twfl_rose {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f339.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f339.svg"), none; }
+
+.twfl-sunflower,
+.twfl_sunflower {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f33b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f33b.svg"), none; }
+
+.twfl-hibiscus,
+.twfl_hibiscus {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f33a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f33a.svg"), none; }
+
+.twfl-maple-leaf,
+.twfl_maple_leaf {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f341.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f341.svg"), none; }
+
+.twfl-leaves,
+.twfl_leaves {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f343.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f343.svg"), none; }
+
+.twfl-fallen-leaf,
+.twfl_fallen_leaf {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f342.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f342.svg"), none; }
+
+.twfl-herb,
+.twfl_herb {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f33f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f33f.svg"), none; }
+
+.twfl-mushroom,
+.twfl_mushroom {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f344.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f344.svg"), none; }
+
+.twfl-cactus,
+.twfl_cactus {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f335.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f335.svg"), none; }
+
+.twfl-palm-tree,
+.twfl_palm_tree {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f334.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f334.svg"), none; }
+
+.twfl-evergreen-tree,
+.twfl_evergreen_tree {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f332.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f332.svg"), none; }
+
+.twfl-deciduous-tree,
+.twfl_deciduous_tree {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f333.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f333.svg"), none; }
+
+.twfl-chestnut,
+.twfl_chestnut {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f330.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f330.svg"), none; }
+
+.twfl-seedling,
+.twfl_seedling {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f331.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f331.svg"), none; }
+
+.twfl-blossom,
+.twfl_blossom {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f33c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f33c.svg"), none; }
+
+.twfl-ear-of-rice,
+.twfl_ear_of_rice {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f33e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f33e.svg"), none; }
+
+.twfl-shell,
+.twfl_shell {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f41a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f41a.svg"), none; }
+
+.twfl-globe-with-meridians,
+.twfl_globe_with_meridians {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f310.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f310.svg"), none; }
+
+.twfl-sun-with-face,
+.twfl_sun_with_face {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f31e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f31e.svg"), none; }
+
+.twfl-full-moon-with-face,
+.twfl_full_moon_with_face {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f31d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f31d.svg"), none; }
+
+.twfl-new-moon-with-face,
+.twfl_new_moon_with_face {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f31a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f31a.svg"), none; }
+
+.twfl-new-moon,
+.twfl_new_moon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f311.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f311.svg"), none; }
+
+.twfl-waxing-crescent-moon,
+.twfl_waxing_crescent_moon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f312.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f312.svg"), none; }
+
+.twfl-first-quarter-moon,
+.twfl_first_quarter_moon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f313.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f313.svg"), none; }
+
+.twfl-waxing-gibbous-moon,
+.twfl_waxing_gibbous_moon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f314.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f314.svg"), none; }
+
+.twfl-full-moon,
+.twfl_full_moon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f315.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f315.svg"), none; }
+
+.twfl-waning-gibbous-moon,
+.twfl_waning_gibbous_moon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f316.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f316.svg"), none; }
+
+.twfl-last-quarter-moon,
+.twfl_last_quarter_moon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f317.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f317.svg"), none; }
+
+.twfl-waning-crescent-moon,
+.twfl_waning_crescent_moon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f318.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f318.svg"), none; }
+
+.twfl-last-quarter-moon-with-face,
+.twfl_last_quarter_moon_with_face {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f31c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f31c.svg"), none; }
+
+.twfl-first-quarter-moon-with-face,
+.twfl_first_quarter_moon_with_face {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f31b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f31b.svg"), none; }
+
+.twfl-moon,
+.twfl_moon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f319.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f319.svg"), none; }
+
+.twfl-earth-africa,
+.twfl_earth_africa {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f30d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f30d.svg"), none; }
+
+.twfl-earth-americas,
+.twfl_earth_americas {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f30e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f30e.svg"), none; }
+
+.twfl-earth-asia,
+.twfl_earth_asia {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f30f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f30f.svg"), none; }
+
+.twfl-volcano,
+.twfl_volcano {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f30b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f30b.svg"), none; }
+
+.twfl-milky-way,
+.twfl_milky_way {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f30c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f30c.svg"), none; }
+
+.twfl-partly-sunny,
+.twfl_partly_sunny {
+  background-image: url("https://twemoji.maxcdn.com/16x16/26c5.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/26c5.svg"), none; }
+
+.twfl-bamboo,
+.twfl_bamboo {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f38d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f38d.svg"), none; }
+
+.twfl-gift-heart,
+.twfl_gift_heart {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f49d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f49d.svg"), none; }
+
+.twfl-dolls,
+.twfl_dolls {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f38e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f38e.svg"), none; }
+
+.twfl-school-satchel,
+.twfl_school_satchel {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f392.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f392.svg"), none; }
+
+.twfl-mortar-board,
+.twfl_mortar_board {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f393.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f393.svg"), none; }
+
+.twfl-flags,
+.twfl_flags {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f38f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f38f.svg"), none; }
+
+.twfl-fireworks,
+.twfl_fireworks {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f386.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f386.svg"), none; }
+
+.twfl-sparkler,
+.twfl_sparkler {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f387.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f387.svg"), none; }
+
+.twfl-wind-chime,
+.twfl_wind_chime {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f390.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f390.svg"), none; }
+
+.twfl-rice-scene,
+.twfl_rice_scene {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f391.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f391.svg"), none; }
+
+.twfl-jack-o-lantern,
+.twfl_jack_o_lantern {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f383.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f383.svg"), none; }
+
+.twfl-ghost,
+.twfl_ghost {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f47b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f47b.svg"), none; }
+
+.twfl-santa,
+.twfl_santa {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f385.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f385.svg"), none; }
+
+.twfl-8ball,
+.twfl_8ball {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3b1.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b1.svg"), none; }
+
+.twfl-alarm-clock,
+.twfl_alarm_clock {
+  background-image: url("https://twemoji.maxcdn.com/16x16/23f0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/23f0.svg"), none; }
+
+.twfl-apple,
+.twfl_apple {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f34e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f34e.svg"), none; }
+
+.twfl-art,
+.twfl_art {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3a8.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a8.svg"), none; }
+
+.twfl-baby-bottle,
+.twfl_baby_bottle {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f37c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f37c.svg"), none; }
+
+.twfl-balloon,
+.twfl_balloon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f388.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f388.svg"), none; }
+
+.twfl-banana,
+.twfl_banana {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f34c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f34c.svg"), none; }
+
+.twfl-bar-chart,
+.twfl_bar_chart {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4ca.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ca.svg"), none; }
+
+.twfl-baseball,
+.twfl_baseball {
+  background-image: url("https://twemoji.maxcdn.com/16x16/26be.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/26be.svg"), none; }
+
+.twfl-basketball,
+.twfl_basketball {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3c0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c0.svg"), none; }
+
+.twfl-bath,
+.twfl_bath {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6c0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6c0.svg"), none; }
+
+.twfl-bathtub,
+.twfl_bathtub {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6c1.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6c1.svg"), none; }
+
+.twfl-battery,
+.twfl_battery {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f50b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f50b.svg"), none; }
+
+.twfl-beer,
+.twfl_beer {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f37a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f37a.svg"), none; }
+
+.twfl-beers,
+.twfl_beers {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f37b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f37b.svg"), none; }
+
+.twfl-bell,
+.twfl_bell {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f514.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f514.svg"), none; }
+
+.twfl-bento,
+.twfl_bento {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f371.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f371.svg"), none; }
+
+.twfl-bicyclist,
+.twfl_bicyclist {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6b4.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b4.svg"), none; }
+
+.twfl-bikini,
+.twfl_bikini {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f459.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f459.svg"), none; }
+
+.twfl-birthday,
+.twfl_birthday {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f382.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f382.svg"), none; }
+
+.twfl-black-joker,
+.twfl_black_joker {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f0cf.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f0cf.svg"), none; }
+
+.twfl-black-nib,
+.twfl_black_nib {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2712.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2712.svg"), none; }
+
+.twfl-blue-book,
+.twfl_blue_book {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4d8.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d8.svg"), none; }
+
+.twfl-bomb,
+.twfl_bomb {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4a3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a3.svg"), none; }
+
+.twfl-bookmark,
+.twfl_bookmark {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f516.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f516.svg"), none; }
+
+.twfl-bookmark-tabs,
+.twfl_bookmark_tabs {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4d1.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d1.svg"), none; }
+
+.twfl-books,
+.twfl_books {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4da.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4da.svg"), none; }
+
+.twfl-boot,
+.twfl_boot {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f462.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f462.svg"), none; }
+
+.twfl-bowling,
+.twfl_bowling {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3b3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b3.svg"), none; }
+
+.twfl-bread,
+.twfl_bread {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f35e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f35e.svg"), none; }
+
+.twfl-briefcase,
+.twfl_briefcase {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4bc.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4bc.svg"), none; }
+
+.twfl-bulb,
+.twfl_bulb {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4a1.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a1.svg"), none; }
+
+.twfl-cake,
+.twfl_cake {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f370.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f370.svg"), none; }
+
+.twfl-calendar,
+.twfl_calendar {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4c6.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c6.svg"), none; }
+
+.twfl-calling,
+.twfl_calling {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4f2.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f2.svg"), none; }
+
+.twfl-camera,
+.twfl_camera {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4f7.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f7.svg"), none; }
+
+.twfl-candy,
+.twfl_candy {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f36c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f36c.svg"), none; }
+
+.twfl-card-index,
+.twfl_card_index {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4c7.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c7.svg"), none; }
+
+.twfl-cd,
+.twfl_cd {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4bf.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4bf.svg"), none; }
+
+.twfl-chart-with-downwards-trend,
+.twfl_chart_with_downwards_trend {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4c9.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c9.svg"), none; }
+
+.twfl-chart-with-upwards-trend,
+.twfl_chart_with_upwards_trend {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4c8.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c8.svg"), none; }
+
+.twfl-cherries,
+.twfl_cherries {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f352.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f352.svg"), none; }
+
+.twfl-chocolate-bar,
+.twfl_chocolate_bar {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f36b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f36b.svg"), none; }
+
+.twfl-christmas-tree,
+.twfl_christmas_tree {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f384.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f384.svg"), none; }
+
+.twfl-clapper,
+.twfl_clapper {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3ac.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ac.svg"), none; }
+
+.twfl-clipboard,
+.twfl_clipboard {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4cb.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4cb.svg"), none; }
+
+.twfl-closed-book,
+.twfl_closed_book {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4d5.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d5.svg"), none; }
+
+.twfl-closed-lock-with-key,
+.twfl_closed_lock_with_key {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f510.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f510.svg"), none; }
+
+.twfl-closed-umbrella,
+.twfl_closed_umbrella {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f302.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f302.svg"), none; }
+
+.twfl-clubs,
+.twfl_clubs {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2663.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2663.svg"), none; }
+
+.twfl-cocktail,
+.twfl_cocktail {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f378.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f378.svg"), none; }
+
+.twfl-coffee,
+.twfl_coffee {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2615.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2615.svg"), none; }
+
+.twfl-computer,
+.twfl_computer {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4bb.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4bb.svg"), none; }
+
+.twfl-confetti-ball,
+.twfl_confetti_ball {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f38a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f38a.svg"), none; }
+
+.twfl-cookie,
+.twfl_cookie {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f36a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f36a.svg"), none; }
+
+.twfl-corn,
+.twfl_corn {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f33d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f33d.svg"), none; }
+
+.twfl-credit-card,
+.twfl_credit_card {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4b3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b3.svg"), none; }
+
+.twfl-crown,
+.twfl_crown {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f451.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f451.svg"), none; }
+
+.twfl-crystal-ball,
+.twfl_crystal_ball {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f52e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f52e.svg"), none; }
+
+.twfl-curry,
+.twfl_curry {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f35b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f35b.svg"), none; }
+
+.twfl-custard,
+.twfl_custard {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f36e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f36e.svg"), none; }
+
+.twfl-dango,
+.twfl_dango {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f361.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f361.svg"), none; }
+
+.twfl-dart,
+.twfl_dart {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3af.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3af.svg"), none; }
+
+.twfl-date,
+.twfl_date {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4c5.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c5.svg"), none; }
+
+.twfl-diamonds,
+.twfl_diamonds {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2666.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2666.svg"), none; }
+
+.twfl-dollar,
+.twfl_dollar {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4b5.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b5.svg"), none; }
+
+.twfl-door,
+.twfl_door {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6aa.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6aa.svg"), none; }
+
+.twfl-doughnut,
+.twfl_doughnut {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f369.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f369.svg"), none; }
+
+.twfl-dress,
+.twfl_dress {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f457.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f457.svg"), none; }
+
+.twfl-dvd,
+.twfl_dvd {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4c0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c0.svg"), none; }
+
+.twfl-e-mail,
+.twfl_e_mail {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4e7.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4e7.svg"), none; }
+
+.twfl-egg,
+.twfl_egg {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f373.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f373.svg"), none; }
+
+.twfl-eggplant,
+.twfl_eggplant {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f346.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f346.svg"), none; }
+
+.twfl-electric-plug,
+.twfl_electric_plug {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f50c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f50c.svg"), none; }
+
+.twfl-email,
+.twfl_email {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2709.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2709.svg"), none; }
+
+.twfl-euro,
+.twfl_euro {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4b6.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b6.svg"), none; }
+
+.twfl-eyeglasses,
+.twfl_eyeglasses {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f453.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f453.svg"), none; }
+
+.twfl-fax,
+.twfl_fax {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4e0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4e0.svg"), none; }
+
+.twfl-file-folder,
+.twfl_file_folder {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4c1.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c1.svg"), none; }
+
+.twfl-fish-cake,
+.twfl_fish_cake {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f365.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f365.svg"), none; }
+
+.twfl-fishing-pole-and-fish,
+.twfl_fishing_pole_and_fish {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3a3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a3.svg"), none; }
+
+.twfl-flashlight,
+.twfl_flashlight {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f526.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f526.svg"), none; }
+
+.twfl-floppy-disk,
+.twfl_floppy_disk {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4be.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4be.svg"), none; }
+
+.twfl-flower-playing-cards,
+.twfl_flower_playing_cards {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3b4.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b4.svg"), none; }
+
+.twfl-football,
+.twfl_football {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3c8.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c8.svg"), none; }
+
+.twfl-fork-and-knife,
+.twfl_fork_and_knife {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f374.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f374.svg"), none; }
+
+.twfl-fried-shrimp,
+.twfl_fried_shrimp {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f364.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f364.svg"), none; }
+
+.twfl-fries,
+.twfl_fries {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f35f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f35f.svg"), none; }
+
+.twfl-game-die,
+.twfl_game_die {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3b2.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b2.svg"), none; }
+
+.twfl-gem,
+.twfl_gem {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f48e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f48e.svg"), none; }
+
+.twfl-gift,
+.twfl_gift {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f381.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f381.svg"), none; }
+
+.twfl-golf,
+.twfl_golf {
+  background-image: url("https://twemoji.maxcdn.com/16x16/26f3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/26f3.svg"), none; }
+
+.twfl-grapes,
+.twfl_grapes {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f347.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f347.svg"), none; }
+
+.twfl-green-apple,
+.twfl_green_apple {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f34f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f34f.svg"), none; }
+
+.twfl-green-book,
+.twfl_green_book {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4d7.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d7.svg"), none; }
+
+.twfl-guitar,
+.twfl_guitar {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3b8.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b8.svg"), none; }
+
+.twfl-gun,
+.twfl_gun {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f52b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f52b.svg"), none; }
+
+.twfl-hamburger,
+.twfl_hamburger {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f354.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f354.svg"), none; }
+
+.twfl-hammer,
+.twfl_hammer {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f528.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f528.svg"), none; }
+
+.twfl-handbag,
+.twfl_handbag {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f45c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f45c.svg"), none; }
+
+.twfl-headphones,
+.twfl_headphones {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3a7.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a7.svg"), none; }
+
+.twfl-hearts,
+.twfl_hearts {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2665.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2665.svg"), none; }
+
+.twfl-high-brightness,
+.twfl_high_brightness {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f506.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f506.svg"), none; }
+
+.twfl-high-heel,
+.twfl_high_heel {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f460.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f460.svg"), none; }
+
+.twfl-hocho,
+.twfl_hocho {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f52a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f52a.svg"), none; }
+
+.twfl-honey-pot,
+.twfl_honey_pot {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f36f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f36f.svg"), none; }
+
+.twfl-horse-racing,
+.twfl_horse_racing {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3c7.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c7.svg"), none; }
+
+.twfl-hourglass,
+.twfl_hourglass {
+  background-image: url("https://twemoji.maxcdn.com/16x16/231b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/231b.svg"), none; }
+
+.twfl-hourglass-flowing-sand,
+.twfl_hourglass_flowing_sand {
+  background-image: url("https://twemoji.maxcdn.com/16x16/23f3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/23f3.svg"), none; }
+
+.twfl-ice-cream,
+.twfl_ice_cream {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f368.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f368.svg"), none; }
+
+.twfl-icecream,
+.twfl_icecream {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f366.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f366.svg"), none; }
+
+.twfl-inbox-tray,
+.twfl_inbox_tray {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4e5.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4e5.svg"), none; }
+
+.twfl-incoming-envelope,
+.twfl_incoming_envelope {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4e8.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4e8.svg"), none; }
+
+.twfl-iphone,
+.twfl_iphone {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4f1.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f1.svg"), none; }
+
+.twfl-jeans,
+.twfl_jeans {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f456.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f456.svg"), none; }
+
+.twfl-key,
+.twfl_key {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f511.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f511.svg"), none; }
+
+.twfl-kimono,
+.twfl_kimono {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f458.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f458.svg"), none; }
+
+.twfl-ledger,
+.twfl_ledger {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4d2.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d2.svg"), none; }
+
+.twfl-lemon,
+.twfl_lemon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f34b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f34b.svg"), none; }
+
+.twfl-lipstick,
+.twfl_lipstick {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f484.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f484.svg"), none; }
+
+.twfl-lock,
+.twfl_lock {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f512.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f512.svg"), none; }
+
+.twfl-lock-with-ink-pen,
+.twfl_lock_with_ink_pen {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f50f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f50f.svg"), none; }
+
+.twfl-lollipop,
+.twfl_lollipop {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f36d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f36d.svg"), none; }
+
+.twfl-loop,
+.twfl_loop {
+  background-image: url("https://twemoji.maxcdn.com/16x16/27bf.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/27bf.svg"), none; }
+
+.twfl-loudspeaker,
+.twfl_loudspeaker {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4e2.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4e2.svg"), none; }
+
+.twfl-low-brightness,
+.twfl_low_brightness {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f505.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f505.svg"), none; }
+
+.twfl-mag,
+.twfl_mag {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f50d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f50d.svg"), none; }
+
+.twfl-mag-right,
+.twfl_mag_right {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f50e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f50e.svg"), none; }
+
+.twfl-mahjong,
+.twfl_mahjong {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f004.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f004.svg"), none; }
+
+.twfl-mailbox,
+.twfl_mailbox {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4eb.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4eb.svg"), none; }
+
+.twfl-mailbox-closed,
+.twfl_mailbox_closed {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4ea.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ea.svg"), none; }
+
+.twfl-mailbox-with-mail,
+.twfl_mailbox_with_mail {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4ec.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ec.svg"), none; }
+
+.twfl-mailbox-with-no-mail,
+.twfl_mailbox_with_no_mail {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4ed.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ed.svg"), none; }
+
+.twfl-mans-shoe,
+.twfl_mans_shoe {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f45e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f45e.svg"), none; }
+
+.twfl-meat-on-bone,
+.twfl_meat_on_bone {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f356.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f356.svg"), none; }
+
+.twfl-mega,
+.twfl_mega {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4e3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4e3.svg"), none; }
+
+.twfl-melon,
+.twfl_melon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f348.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f348.svg"), none; }
+
+.twfl-memo,
+.twfl_memo {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4dd.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4dd.svg"), none; }
+
+.twfl-microphone,
+.twfl_microphone {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3a4.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a4.svg"), none; }
+
+.twfl-microscope,
+.twfl_microscope {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f52c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f52c.svg"), none; }
+
+.twfl-minidisc,
+.twfl_minidisc {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4bd.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4bd.svg"), none; }
+
+.twfl-money-with-wings,
+.twfl_money_with_wings {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4b8.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b8.svg"), none; }
+
+.twfl-moneybag,
+.twfl_moneybag {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4b0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b0.svg"), none; }
+
+.twfl-mountain-bicyclist,
+.twfl_mountain_bicyclist {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6b5.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b5.svg"), none; }
+
+.twfl-movie-camera,
+.twfl_movie_camera {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3a5.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a5.svg"), none; }
+
+.twfl-musical-keyboard,
+.twfl_musical_keyboard {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3b9.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b9.svg"), none; }
+
+.twfl-musical-score,
+.twfl_musical_score {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3bc.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3bc.svg"), none; }
+
+.twfl-mute,
+.twfl_mute {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f507.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f507.svg"), none; }
+
+.twfl-name-badge,
+.twfl_name_badge {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4db.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4db.svg"), none; }
+
+.twfl-necktie,
+.twfl_necktie {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f454.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f454.svg"), none; }
+
+.twfl-newspaper,
+.twfl_newspaper {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4f0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f0.svg"), none; }
+
+.twfl-no-bell,
+.twfl_no_bell {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f515.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f515.svg"), none; }
+
+.twfl-notebook,
+.twfl_notebook {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4d3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d3.svg"), none; }
+
+.twfl-notebook-with-decorative-cover,
+.twfl_notebook_with_decorative_cover {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4d4.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d4.svg"), none; }
+
+.twfl-nut-and-bolt,
+.twfl_nut_and_bolt {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f529.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f529.svg"), none; }
+
+.twfl-oden,
+.twfl_oden {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f362.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f362.svg"), none; }
+
+.twfl-open-file-folder,
+.twfl_open_file_folder {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4c2.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c2.svg"), none; }
+
+.twfl-orange-book,
+.twfl_orange_book {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4d9.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d9.svg"), none; }
+
+.twfl-outbox-tray,
+.twfl_outbox_tray {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4e4.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4e4.svg"), none; }
+
+.twfl-page-facing-up,
+.twfl_page_facing_up {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4c4.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c4.svg"), none; }
+
+.twfl-page-with-curl,
+.twfl_page_with_curl {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4c3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c3.svg"), none; }
+
+.twfl-pager,
+.twfl_pager {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4df.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4df.svg"), none; }
+
+.twfl-paperclip,
+.twfl_paperclip {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4ce.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ce.svg"), none; }
+
+.twfl-peach,
+.twfl_peach {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f351.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f351.svg"), none; }
+
+.twfl-pear,
+.twfl_pear {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f350.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f350.svg"), none; }
+
+.twfl-pencil2,
+.twfl_pencil2 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/270f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/270f.svg"), none; }
+
+.twfl-phone,
+.twfl_phone {
+  background-image: url("https://twemoji.maxcdn.com/16x16/260e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/260e.svg"), none; }
+
+.twfl-pill,
+.twfl_pill {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f48a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f48a.svg"), none; }
+
+.twfl-pineapple,
+.twfl_pineapple {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f34d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f34d.svg"), none; }
+
+.twfl-pizza,
+.twfl_pizza {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f355.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f355.svg"), none; }
+
+.twfl-postal-horn,
+.twfl_postal_horn {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4ef.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ef.svg"), none; }
+
+.twfl-postbox,
+.twfl_postbox {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4ee.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ee.svg"), none; }
+
+.twfl-pouch,
+.twfl_pouch {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f45d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f45d.svg"), none; }
+
+.twfl-poultry-leg,
+.twfl_poultry_leg {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f357.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f357.svg"), none; }
+
+.twfl-pound,
+.twfl_pound {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4b7.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b7.svg"), none; }
+
+.twfl-purse,
+.twfl_purse {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f45b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f45b.svg"), none; }
+
+.twfl-pushpin,
+.twfl_pushpin {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4cc.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4cc.svg"), none; }
+
+.twfl-radio,
+.twfl_radio {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4fb.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4fb.svg"), none; }
+
+.twfl-ramen,
+.twfl_ramen {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f35c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f35c.svg"), none; }
+
+.twfl-ribbon,
+.twfl_ribbon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f380.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f380.svg"), none; }
+
+.twfl-rice,
+.twfl_rice {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f35a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f35a.svg"), none; }
+
+.twfl-rice-ball,
+.twfl_rice_ball {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f359.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f359.svg"), none; }
+
+.twfl-rice-cracker,
+.twfl_rice_cracker {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f358.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f358.svg"), none; }
+
+.twfl-ring,
+.twfl_ring {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f48d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f48d.svg"), none; }
+
+.twfl-rugby-football,
+.twfl_rugby_football {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3c9.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c9.svg"), none; }
+
+.twfl-running-shirt-with-sash,
+.twfl_running_shirt_with_sash {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3bd.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3bd.svg"), none; }
+
+.twfl-sake,
+.twfl_sake {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f376.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f376.svg"), none; }
+
+.twfl-sandal,
+.twfl_sandal {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f461.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f461.svg"), none; }
+
+.twfl-satellite,
+.twfl_satellite {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4e1.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4e1.svg"), none; }
+
+.twfl-saxophone,
+.twfl_saxophone {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3b7.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b7.svg"), none; }
+
+.twfl-scissors,
+.twfl_scissors {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2702.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2702.svg"), none; }
+
+.twfl-scroll,
+.twfl_scroll {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4dc.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4dc.svg"), none; }
+
+.twfl-seat,
+.twfl_seat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4ba.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ba.svg"), none; }
+
+.twfl-shaved-ice,
+.twfl_shaved_ice {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f367.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f367.svg"), none; }
+
+.twfl-shirt,
+.twfl_shirt {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f455.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f455.svg"), none; }
+
+.twfl-shower,
+.twfl_shower {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6bf.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6bf.svg"), none; }
+
+.twfl-ski,
+.twfl_ski {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3bf.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3bf.svg"), none; }
+
+.twfl-smoking,
+.twfl_smoking {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6ac.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6ac.svg"), none; }
+
+.twfl-snowboarder,
+.twfl_snowboarder {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3c2.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c2.svg"), none; }
+
+.twfl-soccer,
+.twfl_soccer {
+  background-image: url("https://twemoji.maxcdn.com/16x16/26bd.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/26bd.svg"), none; }
+
+.twfl-sound,
+.twfl_sound {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f509.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f509.svg"), none; }
+
+.twfl-space-invader,
+.twfl_space_invader {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f47e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f47e.svg"), none; }
+
+.twfl-spades,
+.twfl_spades {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2660.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2660.svg"), none; }
+
+.twfl-spaghetti,
+.twfl_spaghetti {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f35d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f35d.svg"), none; }
+
+.twfl-speaker,
+.twfl_speaker {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f50a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f50a.svg"), none; }
+
+.twfl-stew,
+.twfl_stew {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f372.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f372.svg"), none; }
+
+.twfl-straight-ruler,
+.twfl_straight_ruler {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4cf.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4cf.svg"), none; }
+
+.twfl-strawberry,
+.twfl_strawberry {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f353.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f353.svg"), none; }
+
+.twfl-surfer,
+.twfl_surfer {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3c4.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c4.svg"), none; }
+
+.twfl-sushi,
+.twfl_sushi {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f363.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f363.svg"), none; }
+
+.twfl-sweet-potato,
+.twfl_sweet_potato {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f360.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f360.svg"), none; }
+
+.twfl-swimmer,
+.twfl_swimmer {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3ca.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ca.svg"), none; }
+
+.twfl-syringe,
+.twfl_syringe {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f489.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f489.svg"), none; }
+
+.twfl-tada,
+.twfl_tada {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f389.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f389.svg"), none; }
+
+.twfl-tanabata-tree,
+.twfl_tanabata_tree {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f38b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f38b.svg"), none; }
+
+.twfl-tangerine,
+.twfl_tangerine {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f34a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f34a.svg"), none; }
+
+.twfl-tea,
+.twfl_tea {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f375.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f375.svg"), none; }
+
+.twfl-telephone-receiver,
+.twfl_telephone_receiver {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4de.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4de.svg"), none; }
+
+.twfl-telescope,
+.twfl_telescope {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f52d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f52d.svg"), none; }
+
+.twfl-tennis,
+.twfl_tennis {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3be.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3be.svg"), none; }
+
+.twfl-toilet,
+.twfl_toilet {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6bd.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6bd.svg"), none; }
+
+.twfl-tomato,
+.twfl_tomato {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f345.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f345.svg"), none; }
+
+.twfl-tophat,
+.twfl_tophat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3a9.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a9.svg"), none; }
+
+.twfl-triangular-ruler,
+.twfl_triangular_ruler {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4d0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d0.svg"), none; }
+
+.twfl-trophy,
+.twfl_trophy {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3c6.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c6.svg"), none; }
+
+.twfl-tropical-drink,
+.twfl_tropical_drink {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f379.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f379.svg"), none; }
+
+.twfl-trumpet,
+.twfl_trumpet {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3ba.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ba.svg"), none; }
+
+.twfl-tv,
+.twfl_tv {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4fa.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4fa.svg"), none; }
+
+.twfl-unlock,
+.twfl_unlock {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f513.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f513.svg"), none; }
+
+.twfl-vhs,
+.twfl_vhs {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4fc.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4fc.svg"), none; }
+
+.twfl-video-camera,
+.twfl_video_camera {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4f9.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f9.svg"), none; }
+
+.twfl-video-game,
+.twfl_video_game {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3ae.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ae.svg"), none; }
+
+.twfl-violin,
+.twfl_violin {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3bb.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3bb.svg"), none; }
+
+.twfl-watch,
+.twfl_watch {
+  background-image: url("https://twemoji.maxcdn.com/16x16/231a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/231a.svg"), none; }
+
+.twfl-watermelon,
+.twfl_watermelon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f349.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f349.svg"), none; }
+
+.twfl-wine-glass,
+.twfl_wine_glass {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f377.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f377.svg"), none; }
+
+.twfl-womans-clothes,
+.twfl_womans_clothes {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f45a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f45a.svg"), none; }
+
+.twfl-womans-hat,
+.twfl_womans_hat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f452.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f452.svg"), none; }
+
+.twfl-wrench,
+.twfl_wrench {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f527.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f527.svg"), none; }
+
+.twfl-yen,
+.twfl_yen {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4b4.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b4.svg"), none; }
+
+.twfl-aerial-tramway,
+.twfl_aerial_tramway {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6a1.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a1.svg"), none; }
+
+.twfl-airplane,
+.twfl_airplane {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2708.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2708.svg"), none; }
+
+.twfl-ambulance,
+.twfl_ambulance {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f691.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f691.svg"), none; }
+
+.twfl-anchor,
+.twfl_anchor {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2693.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2693.svg"), none; }
+
+.twfl-articulated-lorry,
+.twfl_articulated_lorry {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f69b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f69b.svg"), none; }
+
+.twfl-atm,
+.twfl_atm {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3e7.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e7.svg"), none; }
+
+.twfl-bank,
+.twfl_bank {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3e6.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e6.svg"), none; }
+
+.twfl-barber,
+.twfl_barber {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f488.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f488.svg"), none; }
+
+.twfl-beginner,
+.twfl_beginner {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f530.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f530.svg"), none; }
+
+.twfl-bike,
+.twfl_bike {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6b2.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b2.svg"), none; }
+
+.twfl-blue-car,
+.twfl_blue_car {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f699.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f699.svg"), none; }
+
+.twfl-boat,
+.twfl_boat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/26f5.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/26f5.svg"), none; }
+
+.twfl-bridge-at-night,
+.twfl_bridge_at_night {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f309.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f309.svg"), none; }
+
+.twfl-bullettrain-front,
+.twfl_bullettrain_front {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f685.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f685.svg"), none; }
+
+.twfl-bullettrain-side,
+.twfl_bullettrain_side {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f684.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f684.svg"), none; }
+
+.twfl-bus,
+.twfl_bus {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f68c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f68c.svg"), none; }
+
+.twfl-busstop,
+.twfl_busstop {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f68f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f68f.svg"), none; }
+
+.twfl-car,
+.twfl_car {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f697.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f697.svg"), none; }
+
+.twfl-carousel-horse,
+.twfl_carousel_horse {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3a0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a0.svg"), none; }
+
+.twfl-checkered-flag,
+.twfl_checkered_flag {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3c1.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c1.svg"), none; }
+
+.twfl-church,
+.twfl_church {
+  background-image: url("https://twemoji.maxcdn.com/16x16/26ea.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/26ea.svg"), none; }
+
+.twfl-circus-tent,
+.twfl_circus_tent {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3aa.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3aa.svg"), none; }
+
+.twfl-city-sunrise,
+.twfl_city_sunrise {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f307.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f307.svg"), none; }
+
+.twfl-city-sunset,
+.twfl_city_sunset {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f306.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f306.svg"), none; }
+
+.twfl-construction,
+.twfl_construction {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6a7.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a7.svg"), none; }
+
+.twfl-convenience-store,
+.twfl_convenience_store {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3ea.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ea.svg"), none; }
+
+.twfl-crossed-flags,
+.twfl_crossed_flags {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f38c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f38c.svg"), none; }
+
+.twfl-department-store,
+.twfl_department_store {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3ec.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ec.svg"), none; }
+
+.twfl-european-castle,
+.twfl_european_castle {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3f0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3f0.svg"), none; }
+
+.twfl-european-post-office,
+.twfl_european_post_office {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3e4.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e4.svg"), none; }
+
+.twfl-factory,
+.twfl_factory {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3ed.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ed.svg"), none; }
+
+.twfl-ferris-wheel,
+.twfl_ferris_wheel {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3a1.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a1.svg"), none; }
+
+.twfl-fire-engine,
+.twfl_fire_engine {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f692.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f692.svg"), none; }
+
+.twfl-fountain,
+.twfl_fountain {
+  background-image: url("https://twemoji.maxcdn.com/16x16/26f2.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/26f2.svg"), none; }
+
+.twfl-fuelpump,
+.twfl_fuelpump {
+  background-image: url("https://twemoji.maxcdn.com/16x16/26fd.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/26fd.svg"), none; }
+
+.twfl-helicopter,
+.twfl_helicopter {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f681.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f681.svg"), none; }
+
+.twfl-hospital,
+.twfl_hospital {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3e5.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e5.svg"), none; }
+
+.twfl-hotel,
+.twfl_hotel {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3e8.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e8.svg"), none; }
+
+.twfl-hotsprings,
+.twfl_hotsprings {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2668.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2668.svg"), none; }
+
+.twfl-house,
+.twfl_house {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3e0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e0.svg"), none; }
+
+.twfl-house-with-garden,
+.twfl_house_with_garden {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3e1.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e1.svg"), none; }
+
+.twfl-japan,
+.twfl_japan {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f5fe.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f5fe.svg"), none; }
+
+.twfl-japanese-castle,
+.twfl_japanese_castle {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3ef.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ef.svg"), none; }
+
+.twfl-light-rail,
+.twfl_light_rail {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f688.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f688.svg"), none; }
+
+.twfl-love-hotel,
+.twfl_love_hotel {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3e9.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e9.svg"), none; }
+
+.twfl-minibus,
+.twfl_minibus {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f690.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f690.svg"), none; }
+
+.twfl-monorail,
+.twfl_monorail {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f69d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f69d.svg"), none; }
+
+.twfl-mount-fuji,
+.twfl_mount_fuji {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f5fb.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f5fb.svg"), none; }
+
+.twfl-mountain-cableway,
+.twfl_mountain_cableway {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6a0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a0.svg"), none; }
+
+.twfl-mountain-railway,
+.twfl_mountain_railway {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f69e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f69e.svg"), none; }
+
+.twfl-moyai,
+.twfl_moyai {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f5ff.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f5ff.svg"), none; }
+
+.twfl-office,
+.twfl_office {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3e2.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e2.svg"), none; }
+
+.twfl-oncoming-automobile,
+.twfl_oncoming_automobile {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f698.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f698.svg"), none; }
+
+.twfl-oncoming-bus,
+.twfl_oncoming_bus {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f68d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f68d.svg"), none; }
+
+.twfl-oncoming-police-car,
+.twfl_oncoming_police_car {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f694.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f694.svg"), none; }
+
+.twfl-oncoming-taxi,
+.twfl_oncoming_taxi {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f696.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f696.svg"), none; }
+
+.twfl-performing-arts,
+.twfl_performing_arts {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3ad.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ad.svg"), none; }
+
+.twfl-police-car,
+.twfl_police_car {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f693.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f693.svg"), none; }
+
+.twfl-post-office,
+.twfl_post_office {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3e3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e3.svg"), none; }
+
+.twfl-railway-car,
+.twfl_railway_car {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f683.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f683.svg"), none; }
+
+.twfl-rainbow,
+.twfl_rainbow {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f308.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f308.svg"), none; }
+
+.twfl-rocket,
+.twfl_rocket {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f680.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f680.svg"), none; }
+
+.twfl-roller-coaster,
+.twfl_roller_coaster {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3a2.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a2.svg"), none; }
+
+.twfl-rotating-light,
+.twfl_rotating_light {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6a8.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a8.svg"), none; }
+
+.twfl-round-pushpin,
+.twfl_round_pushpin {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4cd.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4cd.svg"), none; }
+
+.twfl-rowboat,
+.twfl_rowboat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6a3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a3.svg"), none; }
+
+.twfl-school,
+.twfl_school {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3eb.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3eb.svg"), none; }
+
+.twfl-ship,
+.twfl_ship {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6a2.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a2.svg"), none; }
+
+.twfl-slot-machine,
+.twfl_slot_machine {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3b0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b0.svg"), none; }
+
+.twfl-speedboat,
+.twfl_speedboat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6a4.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a4.svg"), none; }
+
+.twfl-stars,
+.twfl_stars {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f303.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f303.svg"), none; }
+
+.twfl-station,
+.twfl_station {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f689.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f689.svg"), none; }
+
+.twfl-statue-of-liberty,
+.twfl_statue_of_liberty {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f5fd.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f5fd.svg"), none; }
+
+.twfl-steam-locomotive,
+.twfl_steam_locomotive {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f682.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f682.svg"), none; }
+
+.twfl-sunrise,
+.twfl_sunrise {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f305.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f305.svg"), none; }
+
+.twfl-sunrise-over-mountains,
+.twfl_sunrise_over_mountains {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f304.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f304.svg"), none; }
+
+.twfl-suspension-railway,
+.twfl_suspension_railway {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f69f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f69f.svg"), none; }
+
+.twfl-taxi,
+.twfl_taxi {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f695.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f695.svg"), none; }
+
+.twfl-tent,
+.twfl_tent {
+  background-image: url("https://twemoji.maxcdn.com/16x16/26fa.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/26fa.svg"), none; }
+
+.twfl-ticket,
+.twfl_ticket {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3ab.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ab.svg"), none; }
+
+.twfl-tokyo-tower,
+.twfl_tokyo_tower {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f5fc.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f5fc.svg"), none; }
+
+.twfl-tractor,
+.twfl_tractor {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f69c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f69c.svg"), none; }
+
+.twfl-traffic-light,
+.twfl_traffic_light {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6a5.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a5.svg"), none; }
+
+.twfl-train2,
+.twfl_train2 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f686.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f686.svg"), none; }
+
+.twfl-tram,
+.twfl_tram {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f68a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f68a.svg"), none; }
+
+.twfl-triangular-flag-on-post,
+.twfl_triangular_flag_on_post {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6a9.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a9.svg"), none; }
+
+.twfl-trolleybus,
+.twfl_trolleybus {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f68e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f68e.svg"), none; }
+
+.twfl-truck,
+.twfl_truck {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f69a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f69a.svg"), none; }
+
+.twfl-vertical-traffic-light,
+.twfl_vertical_traffic_light {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6a6.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a6.svg"), none; }
+
+.twfl-warning,
+.twfl_warning {
+  background-image: url("https://twemoji.maxcdn.com/16x16/26a0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/26a0.svg"), none; }
+
+.twfl-wedding,
+.twfl_wedding {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f492.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f492.svg"), none; }
+
+.twfl-jp,
+.twfl_jp {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f1ef-1f1f5.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1ef-1f1f5.svg"), none; }
+
+.twfl-kr,
+.twfl_kr {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f1f0-1f1f7.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1f0-1f1f7.svg"), none; }
+
+.twfl-cn,
+.twfl_cn {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f1e8-1f1f3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1e8-1f1f3.svg"), none; }
+
+.twfl-us,
+.twfl_us {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f1fa-1f1f8.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1fa-1f1f8.svg"), none; }
+
+.twfl-fr,
+.twfl_fr {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f1eb-1f1f7.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1eb-1f1f7.svg"), none; }
+
+.twfl-es,
+.twfl_es {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f1ea-1f1f8.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1ea-1f1f8.svg"), none; }
+
+.twfl-it,
+.twfl_it {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f1ee-1f1f9.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1ee-1f1f9.svg"), none; }
+
+.twfl-ru,
+.twfl_ru {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f1f7-1f1fa.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1f7-1f1fa.svg"), none; }
+
+.twfl-gb,
+.twfl_gb {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f1ec-1f1e7.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1ec-1f1e7.svg"), none; }
+
+.twfl-de,
+.twfl_de {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f1e9-1f1ea.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1e9-1f1ea.svg"), none; }
+
+.twfl-100,
+.twfl_100 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4af.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4af.svg"), none; }
+
+.twfl-1234,
+.twfl_1234 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f522.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f522.svg"), none; }
+
+.twfl-a,
+.twfl_a {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f170.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f170.svg"), none; }
+
+.twfl-ab,
+.twfl_ab {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f18e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f18e.svg"), none; }
+
+.twfl-abc,
+.twfl_abc {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f524.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f524.svg"), none; }
+
+.twfl-abcd,
+.twfl_abcd {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f521.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f521.svg"), none; }
+
+.twfl-accept,
+.twfl_accept {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f251.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f251.svg"), none; }
+
+.twfl-aquarius,
+.twfl_aquarius {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2652.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2652.svg"), none; }
+
+.twfl-aries,
+.twfl_aries {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2648.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2648.svg"), none; }
+
+.twfl-arrow-backward,
+.twfl_arrow_backward {
+  background-image: url("https://twemoji.maxcdn.com/16x16/25c0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/25c0.svg"), none; }
+
+.twfl-arrow-double-down,
+.twfl_arrow_double_down {
+  background-image: url("https://twemoji.maxcdn.com/16x16/23ec.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/23ec.svg"), none; }
+
+.twfl-arrow-double-up,
+.twfl_arrow_double_up {
+  background-image: url("https://twemoji.maxcdn.com/16x16/23eb.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/23eb.svg"), none; }
+
+.twfl-arrow-down,
+.twfl_arrow_down {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2b07.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2b07.svg"), none; }
+
+.twfl-arrow-down-small,
+.twfl_arrow_down_small {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f53d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f53d.svg"), none; }
+
+.twfl-arrow-forward,
+.twfl_arrow_forward {
+  background-image: url("https://twemoji.maxcdn.com/16x16/25b6.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/25b6.svg"), none; }
+
+.twfl-arrow-heading-down,
+.twfl_arrow_heading_down {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2935.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2935.svg"), none; }
+
+.twfl-arrow-heading-up,
+.twfl_arrow_heading_up {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2934.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2934.svg"), none; }
+
+.twfl-arrow-left,
+.twfl_arrow_left {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2b05.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2b05.svg"), none; }
+
+.twfl-arrow-lower-left,
+.twfl_arrow_lower_left {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2199.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2199.svg"), none; }
+
+.twfl-arrow-lower-right,
+.twfl_arrow_lower_right {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2198.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2198.svg"), none; }
+
+.twfl-arrow-right,
+.twfl_arrow_right {
+  background-image: url("https://twemoji.maxcdn.com/16x16/27a1.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/27a1.svg"), none; }
+
+.twfl-arrow-right-hook,
+.twfl_arrow_right_hook {
+  background-image: url("https://twemoji.maxcdn.com/16x16/21aa.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/21aa.svg"), none; }
+
+.twfl-arrow-up,
+.twfl_arrow_up {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2b06.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2b06.svg"), none; }
+
+.twfl-arrow-up-down,
+.twfl_arrow_up_down {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2195.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2195.svg"), none; }
+
+.twfl-arrow-up-small,
+.twfl_arrow_up_small {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f53c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f53c.svg"), none; }
+
+.twfl-arrow-upper-left,
+.twfl_arrow_upper_left {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2196.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2196.svg"), none; }
+
+.twfl-arrow-upper-right,
+.twfl_arrow_upper_right {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2197.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2197.svg"), none; }
+
+.twfl-arrows-clockwise,
+.twfl_arrows_clockwise {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f503.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f503.svg"), none; }
+
+.twfl-arrows-counterclockwise,
+.twfl_arrows_counterclockwise {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f504.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f504.svg"), none; }
+
+.twfl-b,
+.twfl_b {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f171.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f171.svg"), none; }
+
+.twfl-baby-symbol,
+.twfl_baby_symbol {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6bc.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6bc.svg"), none; }
+
+.twfl-baggage-claim,
+.twfl_baggage_claim {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6c4.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6c4.svg"), none; }
+
+.twfl-ballot-box-with-check,
+.twfl_ballot_box_with_check {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2611.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2611.svg"), none; }
+
+.twfl-bangbang,
+.twfl_bangbang {
+  background-image: url("https://twemoji.maxcdn.com/16x16/203c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/203c.svg"), none; }
+
+.twfl-black-circle,
+.twfl_black_circle {
+  background-image: url("https://twemoji.maxcdn.com/16x16/26ab.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/26ab.svg"), none; }
+
+.twfl-black-square-button,
+.twfl_black_square_button {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f532.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f532.svg"), none; }
+
+.twfl-cancer,
+.twfl_cancer {
+  background-image: url("https://twemoji.maxcdn.com/16x16/264b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/264b.svg"), none; }
+
+.twfl-capital-abcd,
+.twfl_capital_abcd {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f520.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f520.svg"), none; }
+
+.twfl-capricorn,
+.twfl_capricorn {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2651.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2651.svg"), none; }
+
+.twfl-chart,
+.twfl_chart {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4b9.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b9.svg"), none; }
+
+.twfl-children-crossing,
+.twfl_children_crossing {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6b8.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b8.svg"), none; }
+
+.twfl-cinema,
+.twfl_cinema {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f3a6.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a6.svg"), none; }
+
+.twfl-cl,
+.twfl_cl {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f191.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f191.svg"), none; }
+
+.twfl-clock1,
+.twfl_clock1 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f550.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f550.svg"), none; }
+
+.twfl-clock10,
+.twfl_clock10 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f559.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f559.svg"), none; }
+
+.twfl-clock1030,
+.twfl_clock1030 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f565.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f565.svg"), none; }
+
+.twfl-clock11,
+.twfl_clock11 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f55a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f55a.svg"), none; }
+
+.twfl-clock1130,
+.twfl_clock1130 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f566.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f566.svg"), none; }
+
+.twfl-clock12,
+.twfl_clock12 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f55b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f55b.svg"), none; }
+
+.twfl-clock1230,
+.twfl_clock1230 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f567.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f567.svg"), none; }
+
+.twfl-clock130,
+.twfl_clock130 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f55c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f55c.svg"), none; }
+
+.twfl-clock2,
+.twfl_clock2 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f551.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f551.svg"), none; }
+
+.twfl-clock230,
+.twfl_clock230 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f55d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f55d.svg"), none; }
+
+.twfl-clock3,
+.twfl_clock3 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f552.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f552.svg"), none; }
+
+.twfl-clock330,
+.twfl_clock330 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f55e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f55e.svg"), none; }
+
+.twfl-clock4,
+.twfl_clock4 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f553.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f553.svg"), none; }
+
+.twfl-clock430,
+.twfl_clock430 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f55f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f55f.svg"), none; }
+
+.twfl-clock5,
+.twfl_clock5 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f554.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f554.svg"), none; }
+
+.twfl-clock530,
+.twfl_clock530 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f560.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f560.svg"), none; }
+
+.twfl-clock6,
+.twfl_clock6 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f555.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f555.svg"), none; }
+
+.twfl-clock630,
+.twfl_clock630 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f561.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f561.svg"), none; }
+
+.twfl-clock7,
+.twfl_clock7 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f556.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f556.svg"), none; }
+
+.twfl-clock730,
+.twfl_clock730 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f562.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f562.svg"), none; }
+
+.twfl-clock8,
+.twfl_clock8 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f557.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f557.svg"), none; }
+
+.twfl-clock830,
+.twfl_clock830 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f563.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f563.svg"), none; }
+
+.twfl-clock9,
+.twfl_clock9 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f558.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f558.svg"), none; }
+
+.twfl-clock930,
+.twfl_clock930 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f564.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f564.svg"), none; }
+
+.twfl-congratulations,
+.twfl_congratulations {
+  background-image: url("https://twemoji.maxcdn.com/16x16/3297.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/3297.svg"), none; }
+
+.twfl-cool,
+.twfl_cool {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f192.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f192.svg"), none; }
+
+.twfl-copyright,
+.twfl_copyright {
+  background-image: url("https://twemoji.maxcdn.com/16x16/a9.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/a9.svg"), none; }
+
+.twfl-curly-loop,
+.twfl_curly_loop {
+  background-image: url("https://twemoji.maxcdn.com/16x16/27b0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/27b0.svg"), none; }
+
+.twfl-currency-exchange,
+.twfl_currency_exchange {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4b1.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b1.svg"), none; }
+
+.twfl-customs,
+.twfl_customs {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6c3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6c3.svg"), none; }
+
+.twfl-diamond-shape-with-a-dot-inside,
+.twfl_diamond_shape_with_a_dot_inside {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4a0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a0.svg"), none; }
+
+.twfl-do-not-litter,
+.twfl_do_not_litter {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6af.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6af.svg"), none; }
+
+.twfl-eight,
+.twfl_eight {
+  background-image: url("https://twemoji.maxcdn.com/16x16/38-20e3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/38-20e3.svg"), none; }
+
+.twfl-eight-pointed-black-star,
+.twfl_eight_pointed_black_star {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2734.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2734.svg"), none; }
+
+.twfl-eight-spoked-asterisk,
+.twfl_eight_spoked_asterisk {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2733.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2733.svg"), none; }
+
+.twfl-end,
+.twfl_end {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f51a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f51a.svg"), none; }
+
+.twfl-fast-forward,
+.twfl_fast_forward {
+  background-image: url("https://twemoji.maxcdn.com/16x16/23e9.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/23e9.svg"), none; }
+
+.twfl-five,
+.twfl_five {
+  background-image: url("https://twemoji.maxcdn.com/16x16/35-20e3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/35-20e3.svg"), none; }
+
+.twfl-four,
+.twfl_four {
+  background-image: url("https://twemoji.maxcdn.com/16x16/34-20e3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/34-20e3.svg"), none; }
+
+.twfl-free,
+.twfl_free {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f193.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f193.svg"), none; }
+
+.twfl-gemini,
+.twfl_gemini {
+  background-image: url("https://twemoji.maxcdn.com/16x16/264a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/264a.svg"), none; }
+
+.twfl-hash,
+.twfl_hash {
+  background-image: url("https://twemoji.maxcdn.com/16x16/23-20e3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/23-20e3.svg"), none; }
+
+.twfl-heart-decoration,
+.twfl_heart_decoration {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f49f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f49f.svg"), none; }
+
+.twfl-heavy-check-mark,
+.twfl_heavy_check_mark {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2714.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2714.svg"), none; }
+
+.twfl-heavy-division-sign,
+.twfl_heavy_division_sign {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2797.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2797.svg"), none; }
+
+.twfl-heavy-dollar-sign,
+.twfl_heavy_dollar_sign {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4b2.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b2.svg"), none; }
+
+.twfl-heavy-minus-sign,
+.twfl_heavy_minus_sign {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2796.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2796.svg"), none; }
+
+.twfl-heavy-multiplication-x,
+.twfl_heavy_multiplication_x {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2716.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2716.svg"), none; }
+
+.twfl-heavy-plus-sign,
+.twfl_heavy_plus_sign {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2795.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2795.svg"), none; }
+
+.twfl-id,
+.twfl_id {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f194.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f194.svg"), none; }
+
+.twfl-ideograph-advantage,
+.twfl_ideograph_advantage {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f250.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f250.svg"), none; }
+
+.twfl-information-source,
+.twfl_information_source {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2139.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2139.svg"), none; }
+
+.twfl-interrobang,
+.twfl_interrobang {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2049.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2049.svg"), none; }
+
+.twfl-keycap-ten,
+.twfl_keycap_ten {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f51f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f51f.svg"), none; }
+
+.twfl-koko,
+.twfl_koko {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f201.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f201.svg"), none; }
+
+.twfl-large-blue-circle,
+.twfl_large_blue_circle {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f535.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f535.svg"), none; }
+
+.twfl-large-blue-diamond,
+.twfl_large_blue_diamond {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f537.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f537.svg"), none; }
+
+.twfl-large-orange-diamond,
+.twfl_large_orange_diamond {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f536.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f536.svg"), none; }
+
+.twfl-left-luggage,
+.twfl_left_luggage {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6c5.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6c5.svg"), none; }
+
+.twfl-left-right-arrow,
+.twfl_left_right_arrow {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2194.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2194.svg"), none; }
+
+.twfl-leftwards-arrow-with-hook,
+.twfl_leftwards_arrow_with_hook {
+  background-image: url("https://twemoji.maxcdn.com/16x16/21a9.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/21a9.svg"), none; }
+
+.twfl-leo,
+.twfl_leo {
+  background-image: url("https://twemoji.maxcdn.com/16x16/264c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/264c.svg"), none; }
+
+.twfl-libra,
+.twfl_libra {
+  background-image: url("https://twemoji.maxcdn.com/16x16/264e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/264e.svg"), none; }
+
+.twfl-link,
+.twfl_link {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f517.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f517.svg"), none; }
+
+.twfl-m,
+.twfl_m {
+  background-image: url("https://twemoji.maxcdn.com/16x16/24c2.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/24c2.svg"), none; }
+
+.twfl-mens,
+.twfl_mens {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6b9.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b9.svg"), none; }
+
+.twfl-metro,
+.twfl_metro {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f687.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f687.svg"), none; }
+
+.twfl-mobile-phone-off,
+.twfl_mobile_phone_off {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4f4.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f4.svg"), none; }
+
+.twfl-negative-squared-cross-mark,
+.twfl_negative_squared_cross_mark {
+  background-image: url("https://twemoji.maxcdn.com/16x16/274e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/274e.svg"), none; }
+
+.twfl-new,
+.twfl_new {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f195.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f195.svg"), none; }
+
+.twfl-ng,
+.twfl_ng {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f196.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f196.svg"), none; }
+
+.twfl-nine,
+.twfl_nine {
+  background-image: url("https://twemoji.maxcdn.com/16x16/39-20e3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/39-20e3.svg"), none; }
+
+.twfl-no-bicycles,
+.twfl_no_bicycles {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6b3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b3.svg"), none; }
+
+.twfl-no-entry,
+.twfl_no_entry {
+  background-image: url("https://twemoji.maxcdn.com/16x16/26d4.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/26d4.svg"), none; }
+
+.twfl-no-entry-sign,
+.twfl_no_entry_sign {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6ab.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6ab.svg"), none; }
+
+.twfl-no-mobile-phones,
+.twfl_no_mobile_phones {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4f5.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f5.svg"), none; }
+
+.twfl-no-pedestrians,
+.twfl_no_pedestrians {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6b7.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b7.svg"), none; }
+
+.twfl-no-smoking,
+.twfl_no_smoking {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6ad.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6ad.svg"), none; }
+
+.twfl-non-potable-water,
+.twfl_non_potable_water {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6b1.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b1.svg"), none; }
+
+.twfl-o,
+.twfl_o {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2b55.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2b55.svg"), none; }
+
+.twfl-o2,
+.twfl_o2 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f17e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f17e.svg"), none; }
+
+.twfl-ok,
+.twfl_ok {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f197.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f197.svg"), none; }
+
+.twfl-on,
+.twfl_on {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f51b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f51b.svg"), none; }
+
+.twfl-one,
+.twfl_one {
+  background-image: url("https://twemoji.maxcdn.com/16x16/31-20e3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/31-20e3.svg"), none; }
+
+.twfl-ophiuchus,
+.twfl_ophiuchus {
+  background-image: url("https://twemoji.maxcdn.com/16x16/26ce.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/26ce.svg"), none; }
+
+.twfl-parking,
+.twfl_parking {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f17f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f17f.svg"), none; }
+
+.twfl-part-alternation-mark,
+.twfl_part_alternation_mark {
+  background-image: url("https://twemoji.maxcdn.com/16x16/303d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/303d.svg"), none; }
+
+.twfl-passport-control,
+.twfl_passport_control {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6c2.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6c2.svg"), none; }
+
+.twfl-pisces,
+.twfl_pisces {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2653.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2653.svg"), none; }
+
+.twfl-potable-water,
+.twfl_potable_water {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6b0.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b0.svg"), none; }
+
+.twfl-put-litter-in-its-place,
+.twfl_put_litter_in_its_place {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6ae.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6ae.svg"), none; }
+
+.twfl-radio-button,
+.twfl_radio_button {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f518.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f518.svg"), none; }
+
+.twfl-recycle,
+.twfl_recycle {
+  background-image: url("https://twemoji.maxcdn.com/16x16/267b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/267b.svg"), none; }
+
+.twfl-red-circle,
+.twfl_red_circle {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f534.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f534.svg"), none; }
+
+.twfl-registered,
+.twfl_registered {
+  background-image: url("https://twemoji.maxcdn.com/16x16/ae.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/ae.svg"), none; }
+
+.twfl-repeat,
+.twfl_repeat {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f501.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f501.svg"), none; }
+
+.twfl-repeat-one,
+.twfl_repeat_one {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f502.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f502.svg"), none; }
+
+.twfl-restroom,
+.twfl_restroom {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6bb.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6bb.svg"), none; }
+
+.twfl-rewind,
+.twfl_rewind {
+  background-image: url("https://twemoji.maxcdn.com/16x16/23ea.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/23ea.svg"), none; }
+
+.twfl-sa,
+.twfl_sa {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f202.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f202.svg"), none; }
+
+.twfl-sagittarius,
+.twfl_sagittarius {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2650.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2650.svg"), none; }
+
+.twfl-scorpius,
+.twfl_scorpius {
+  background-image: url("https://twemoji.maxcdn.com/16x16/264f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/264f.svg"), none; }
+
+.twfl-secret,
+.twfl_secret {
+  background-image: url("https://twemoji.maxcdn.com/16x16/3299.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/3299.svg"), none; }
+
+.twfl-seven,
+.twfl_seven {
+  background-image: url("https://twemoji.maxcdn.com/16x16/37-20e3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/37-20e3.svg"), none; }
+
+.twfl-signal-strength,
+.twfl_signal_strength {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4f6.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f6.svg"), none; }
+
+.twfl-six,
+.twfl_six {
+  background-image: url("https://twemoji.maxcdn.com/16x16/36-20e3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/36-20e3.svg"), none; }
+
+.twfl-six-pointed-star,
+.twfl_six_pointed_star {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f52f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f52f.svg"), none; }
+
+.twfl-small-blue-diamond,
+.twfl_small_blue_diamond {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f539.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f539.svg"), none; }
+
+.twfl-small-orange-diamond,
+.twfl_small_orange_diamond {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f538.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f538.svg"), none; }
+
+.twfl-small-red-triangle,
+.twfl_small_red_triangle {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f53a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f53a.svg"), none; }
+
+.twfl-small-red-triangle-down,
+.twfl_small_red_triangle_down {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f53b.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f53b.svg"), none; }
+
+.twfl-soon,
+.twfl_soon {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f51c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f51c.svg"), none; }
+
+.twfl-sos,
+.twfl_sos {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f198.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f198.svg"), none; }
+
+.twfl-symbols,
+.twfl_symbols {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f523.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f523.svg"), none; }
+
+.twfl-taurus,
+.twfl_taurus {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2649.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2649.svg"), none; }
+
+.twfl-three,
+.twfl_three {
+  background-image: url("https://twemoji.maxcdn.com/16x16/33-20e3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/33-20e3.svg"), none; }
+
+.twfl-tm,
+.twfl_tm {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2122.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2122.svg"), none; }
+
+.twfl-top,
+.twfl_top {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f51d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f51d.svg"), none; }
+
+.twfl-trident,
+.twfl_trident {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f531.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f531.svg"), none; }
+
+.twfl-twisted-rightwards-arrows,
+.twfl_twisted_rightwards_arrows {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f500.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f500.svg"), none; }
+
+.twfl-two,
+.twfl_two {
+  background-image: url("https://twemoji.maxcdn.com/16x16/32-20e3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/32-20e3.svg"), none; }
+
+.twfl-u5272,
+.twfl_u5272 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f239.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f239.svg"), none; }
+
+.twfl-u5408,
+.twfl_u5408 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f234.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f234.svg"), none; }
+
+.twfl-u55b6,
+.twfl_u55b6 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f23a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f23a.svg"), none; }
+
+.twfl-u6307,
+.twfl_u6307 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f22f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f22f.svg"), none; }
+
+.twfl-u6708,
+.twfl_u6708 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f237.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f237.svg"), none; }
+
+.twfl-u6709,
+.twfl_u6709 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f236.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f236.svg"), none; }
+
+.twfl-u6e80,
+.twfl_u6e80 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f235.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f235.svg"), none; }
+
+.twfl-u7121,
+.twfl_u7121 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f21a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f21a.svg"), none; }
+
+.twfl-u7533,
+.twfl_u7533 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f238.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f238.svg"), none; }
+
+.twfl-u7981,
+.twfl_u7981 {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f232.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f232.svg"), none; }
+
+.twfl-u7a7a,
+.twfl_u7a7a {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f233.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f233.svg"), none; }
+
+.twfl-underage,
+.twfl_underage {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f51e.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f51e.svg"), none; }
+
+.twfl-up,
+.twfl_up {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f199.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f199.svg"), none; }
+
+.twfl-vibration-mode,
+.twfl_vibration_mode {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4f3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f3.svg"), none; }
+
+.twfl-virgo,
+.twfl_virgo {
+  background-image: url("https://twemoji.maxcdn.com/16x16/264d.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/264d.svg"), none; }
+
+.twfl-vs,
+.twfl_vs {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f19a.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f19a.svg"), none; }
+
+.twfl-wavy-dash,
+.twfl_wavy_dash {
+  background-image: url("https://twemoji.maxcdn.com/16x16/3030.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/3030.svg"), none; }
+
+.twfl-wc,
+.twfl_wc {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6be.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6be.svg"), none; }
+
+.twfl-wheelchair,
+.twfl_wheelchair {
+  background-image: url("https://twemoji.maxcdn.com/16x16/267f.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/267f.svg"), none; }
+
+.twfl-white-check-mark,
+.twfl_white_check_mark {
+  background-image: url("https://twemoji.maxcdn.com/16x16/2705.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/2705.svg"), none; }
+
+.twfl-white-circle,
+.twfl_white_circle {
+  background-image: url("https://twemoji.maxcdn.com/16x16/26aa.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/26aa.svg"), none; }
+
+.twfl-white-flower,
+.twfl_white_flower {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f4ae.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ae.svg"), none; }
+
+.twfl-white-square-button,
+.twfl_white_square_button {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f533.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f533.svg"), none; }
+
+.twfl-womens,
+.twfl_womens {
+  background-image: url("https://twemoji.maxcdn.com/16x16/1f6ba.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6ba.svg"), none; }
+
+.twfl-x,
+.twfl_x {
+  background-image: url("https://twemoji.maxcdn.com/16x16/274c.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/274c.svg"), none; }
+
+.twfl-zero,
+.twfl_zero {
+  background-image: url("https://twemoji.maxcdn.com/16x16/30-20e3.png");
+  background-image: url("https://twemoji.maxcdn.com/svg/30-20e3.svg"), none; }

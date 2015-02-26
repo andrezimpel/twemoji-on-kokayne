@@ -1,0 +1,24 @@
+ {
+  "name": "twemoji-on-fastlane",
+  "version": "0.0.1",
+  "homepage": "https://github.com/andrezimpel/twemoji-on-fastlane",
+  "authors": [
+    "Andre Zimpel <az@yum.de>"
+  ],
+  "description": "desc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrezimpel/twemoji-on-fastlane.git"
+  },
+  "devDependencies": {
+    "path": "latest",
+    "gulp": "latest",
+    "gulp-rename": "latest",
+    "gulp-plumber": "latest",
+    "gulp-ruby-sass": "latest"
+  },
+  "engineStrict": true,
+  "engines": {
+    "node": ">= 0.9"
+  }
+}

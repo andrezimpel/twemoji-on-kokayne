@@ -1,0 +1,30 @@
+{
+  "name": "sharpness",
+  "version": "0.0.1",
+  "homepage": "https://github.com/andrezimpel/sharpness",
+  "authors": [
+    "Andre Zimpel <az@yum.de>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "twemoji": "latest"
+  },
+  "devDependencies": {
+    "handlebars": "latest"
+  },
+  "engines": {
+    "node": ">= 0.9"
+  }
+}

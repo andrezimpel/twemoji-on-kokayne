@@ -1,0 +1,26 @@
+@import "_variables";
+@import "_emojis";
+@import "_functions";
+
+
+.twfl {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 1em 1em;
+}
+
+
+@each $code, $name in $emoji-map {
+  .twfl-#{$name},
+  .twfl_#{str-replace($name, "-", $replace: '_')} {
+    @if $png-fallback == true {
+      background-image: url('#{$twemoji-asset-path}#{$png-fallback-size}/#{$code}.png');
+    }
+    background-image: url('#{$twemoji-asset-path}svg/#{$code}.svg'), none;
+  }
+}
