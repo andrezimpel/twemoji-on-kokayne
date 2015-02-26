@@ -4,7 +4,7 @@ twemoji on the fastlane is a scss helper for twitters awesome twemoji.
 
 ## get it
 <pre>
-bower install sharpness
+bower install twemoji-on-the-fastlane
 </pre>
 
 ## quick start
