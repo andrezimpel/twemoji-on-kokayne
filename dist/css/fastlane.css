@@ -1,13 +1,3 @@
-.twfl {
-  display: inline-block;
-  height: 1em;
-  width: 1em;
-  margin: 0 .05em 0 .1em;
-  vertical-align: -0.1em;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: 1em 1em; }
-
 .twfl-smile,
 .twfl_smile {
   background-image: url("https://twemoji.maxcdn.com/svg/1f604.svg"), none; }
@@ -3315,3 +3305,13 @@
 .twfl-zero,
 .twfl_zero {
   background-image: url("https://twemoji.maxcdn.com/svg/30-20e3.svg"), none; }
+
+.twfl {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 1em 1em; }
