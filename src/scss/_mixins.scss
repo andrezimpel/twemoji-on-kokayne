@@ -1,0 +1,7 @@
+// create backgrounds
+@mixin create_twemoji_backgrounds ($code) {
+  @if $png-fallback == true {
+    background-image: url('#{$twemoji-asset-path}#{$png-fallback-size}/#{$code}.png');
+  }
+  background-image: url('#{$twemoji-asset-path}svg/#{$code}.svg'), none;
+}
